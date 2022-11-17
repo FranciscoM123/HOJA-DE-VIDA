@@ -1,0 +1,114 @@
+/*La cabecera*/
+/*{
+    margin: 0px;
+    padding: 0px;
+}*/
+
+#agrupar{
+    width: 1200px;
+    margin: 15px auto ;
+
+}
+h2{
+    font-size: 300%;
+    font-family: verdana;
+    font-weight: 100;
+    color: rgb(148, 144, 144);
+}
+#titulo_prin{
+    background-color: blue;
+    text-align: left;
+    padding: 5px;
+    padding-left: 30px;
+    border-right: 10px;
+    color: white;
+}
+
+#img_hojavi{
+    border-radius: 50%;
+}
+
+#pos_img{
+    padding-top: 40px;
+    padding-left: 60px;
+    
+}
+
+#titulo2{
+    display: inline-block;
+    vertical-align: top;
+    padding: 20px;
+    padding-left: 180px;
+}
+
+/*El main*/
+h3{
+    text-align: center;
+}
+#contenedor{
+
+    height: 260px;
+    display: flex;
+    align-items: center;
+    justify-content: right;
+}
+#tabla{   
+    color: rgb(109, 108, 108);
+    font-family: verdana;
+    font-size: 80%;
+    text-align: left;
+    padding: 17px;
+}
+#texto_cuadro{
+    border-width: 1px;
+    border-style: solid;
+    padding: 5px;
+}
+#texto_cuadro1{
+    padding: 6px;
+    color: white;
+}
+
+/*Descri*/
+#contenedor2{
+    padding-left: 40px;
+    padding-right: 80px;
+}
+#cont_descrip{
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 60px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+#titu_descrp{
+    color: rgb(109, 108, 108);
+    font-size: 20px;
+    font-family: verdana;
+    text-align:center;
+}
+#descrip{
+    color: rgb(109, 108, 108);
+    font-size: 15px;
+    font-family: verdana;
+}
+
+/*El footer*/
+
+#titu_footer{
+    color: rgb(109, 108, 108);
+    font-size: 15px;
+    font-family: verdana;
+    text-align: center;
+}
+#cont_footer{
+    padding-left: 505px;
+}
+#cont_footer img{
+    margin: auto;
+    float:left;
+    vertical-align:middle;
+    padding: 0px 0px 50px 15px;
+}
+
+
